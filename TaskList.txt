@@ -1,0 +1,6 @@
+JS Projects - 
+
+6. setInterval (Download feature)
+8. create element (Insects generator and giving them random position)
+10. Keyboard Events (Move element by click arrow keys)
+11. querySelectorAll (multiple selection)
